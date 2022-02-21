@@ -1,0 +1,6 @@
+version: '3'
+services:
+
+  gtoolkit:
+    container_name: gtoolkit
+    image: gtoolkit
