@@ -1,8 +1,0 @@
-name: venkat
-command: bash
-sync:
-- .:/config
-reverse:
-- 9000:9000
-volumes:
-- /root/.cache/pip
